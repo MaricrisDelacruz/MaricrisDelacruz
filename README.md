@@ -1,74 +1,85 @@
-<h1 align="center" style="color:#ff69b4;">Maricris</h1>
-<h3 align="center" style="color:#ff1493;">Frontend Developer | UI Enthusiast | Creative Technologist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Building+Elegant+Web+Experiences;Modern+Frontend+Solutions;Continuous+Learning+%26+Growth" />
-</p>
+  <!-- Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=300&section=header&text=Maricris%20Delacruz&fontSize=90&animation=fadeIn&fontAlignY=50" width="100%"/>
+  
+  <!-- Decorative Pink Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9099-61fefd6a5a3c.gif" width="100%">
 
----
-
-## 🖤 About Me
-
-```diff
-+ Passionate frontend developer with a focus on clean UI.
-+ Dedicated to modern design principles and performance.
-+ Always learning and building innovative digital solutions.
-```
-
----
-
-## 💗 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=ff69b4"/>
-</p>
-
----
-
-## 🖤 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| **My Portfolio** | Modern React + Vite personal portfolio |
-| **Project Two** | Responsive web application |
-| **Project Three** | UI-focused design system |
-
----
-
-## 💗 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchll-16&show_icons=true&theme=dark&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchll-16&theme=black-ice&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
----
-
-## 🖤 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
+  <!-- Typing Title -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF1493&center=true&vCenter=true&size=40&font=Bebas%20Neue&pause=1000+Welcome+to+my+Profile+%F0%9F%98%8B" alt="Typing SVG" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MaricrisDelacruz&label=Profile%20Views&color=ff1493&style=for-the-badge" alt="MaricrisDelacruz" />
+    <img src="https://badges.pufler.dev/years/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
+    <img src="https://badges.pufler.dev/repos/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
+    <img src="https://badges.pufler.dev/commits/monthly/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
+  </p>
+
+  <!-- Social Icons -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=D8076E" target="_blank" />
   </a>
-</p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" target="_blank" />
+  </a>
+
+</div>
 
 ---
 
-<p align="center" style="color:#ff69b4;">
-  © 2026 Rachel — Designed with precision & elegance.
-</p>
+### 👩‍💻 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc5dnd6YW1oejBqZ3U1b3M2aWY3bDk1b3M2aWY3bDk1b3M2aWY3bDk1b3M2aWY3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="250" align="right" alt="Coding GIF"/>
+  
+  <br>
 
+- 🔭 I’m currently working on **Open Source Projects**
+- 🌱 I’m currently learning **DevOps & CyberSecurity**
+- 👯 I’m looking to collaborate on **Python & JavaScript Projects**
+- 💬 Ask me about **Coding, Design, and Tech**
+- ⚡ Fun fact: **I love the color Pink & Black!**
 
+</div>
 
+---
 
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaricrisDelacruz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&icon_color=FF1493&text_color=FFFFFF" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaricrisDelacruz&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&icon_color=FF1493&text_color=FFFFFF" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaricrisDelacruz&bg_color=0d0d0d&color=FF1493&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,git,github,vscode,mysql,linux,docker&theme=dark&perline=6" />
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-jitsu.vercel.app/readme?username=MaricrisDelacruz&waifuId=4" width="300" alt="MaricrisDelacruz's waifu" />
+  
+  <!-- Pink Footer Line -->
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=3&section=footer" width="100%"/>
+  
+  **Stay Pink, Stay Cute ✨**
+</div>
