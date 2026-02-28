@@ -11,13 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23FF1493&center=true&vCenter=true&size=40&font=Bebas%20Neue&pause=1000+Welcome+to+my+Profile+%F0%9F%98%8B" alt="Typing SVG" />
   </a>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=MaricrisDelacruz&label=Profile%20Views&color=ff1493&style=for-the-badge" alt="MaricrisDelacruz" />
-    <img src="https://badges.pufler.dev/years/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
-    <img src="https://badges.pufler.dev/repos/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
-    <img src="https://badges.pufler.dev/commits/monthly/MaricrisDelacruz?color=ff1493&style=for-the-badge" />
-  </p>
+ 
 
   <!-- Social Icons -->
   <a href="#">
@@ -49,37 +43,6 @@
 
 </div>
 
----
 
-### 📊 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaricrisDelacruz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&icon_color=FF1493&text_color=FFFFFF" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaricrisDelacruz&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&icon_color=FF1493&text_color=FFFFFF" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaricrisDelacruz&bg_color=0d0d0d&color=FF1493&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
-</div>
-
----
-
-### 🛠️ Languages & Tools
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,git,github,vscode,mysql,linux,docker&theme=dark&perline=6" />
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-jitsu.vercel.app/readme?username=MaricrisDelacruz&waifuId=4" width="300" alt="MaricrisDelacruz's waifu" />
-  
-  <!-- Pink Footer Line -->
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff1493&height=3&section=footer" width="100%"/>
-  
-  **Stay Pink, Stay Cute ✨**
 </div>
